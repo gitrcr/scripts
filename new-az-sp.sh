@@ -2,7 +2,7 @@
 # 0. Ejecuta en  Cloud Shell el contenido del comentario DIRECT.
 
 <<DIRECT
-bash <(wget -qO - https://raw.githubusercontent.com/gitrcr/azure/refs/heads/main/bin/new-az-sp.sh)
+bash <(wget -qO - https://raw.githubusercontent.com/gitrcr/lab_azure/refs/heads/main/script/new-az-sp.sh)
 DIRECT
 
 # 1. Inicio de sesión en Azure (opcional si ya estás logueado)
