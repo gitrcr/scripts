@@ -1,2 +1,20 @@
-# scripts
-Scripts
+# Scripts
+Repo de scripts
+
+## labazure-sp.sh
+Crear cuenta de servicio para despliegues automatizados. Role: Contributor
+
+Uso para laboratorios.
+
+* Acceder a Azure
+* Abrir Cloud Shell
+* Pegar el siguiente código
+
+```bash
+bash <(wget -qO - https://raw.githubusercontent.com/gitrcr/lab_azure/refs/heads/main/script/new-az-sp.sh)
+```
+
+* Copiar el bloque entre "----"
+* Sustituir el contenido del fichero de proyecto terraform.tfvars
+
+
