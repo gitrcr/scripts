@@ -11,7 +11,7 @@ Uso para laboratorios.
 * Pegar el siguiente código
 
 ```bash
-bash <(wget -qO - https://raw.githubusercontent.com/gitrcr/lab_azure/refs/heads/main/script/new-az-sp.sh)
+bash <(wget -qO - https://raw.githubusercontent.com/gitrcr/scripts/refs/heads/main/azlab-sp.sh)
 ```
 
 * Copiar el bloque entre "----"
